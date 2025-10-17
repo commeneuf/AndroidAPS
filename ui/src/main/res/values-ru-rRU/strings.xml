@@ -38,6 +38,7 @@
     <string name="format_carbs_ic">%1$.0fг IC: %2$.1f</string>
     <string name="treatments_wizard_total_label">Всего</string>
     <!-- SiteRotationDialog -->
+    <string name="site_front">Фронтальный вид</string>
     <!-- FillDialog -->
     <string name="fill_warning">Убедитесь что количество соответствует характеристикам инфузионной системы!</string>
     <string name="record_pump_site_change">Внести запись о смене места катетера помпы</string>
